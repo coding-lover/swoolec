@@ -18,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../swoolec/swoolec/src/Command/DefaultCommand/Help.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
+            <state relative-caret-position="203">
               <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
               <folding>
                 <element signature="e#50#87#0#PHP" expanded="true" />
@@ -91,32 +91,6 @@
               <item name="wSwoole" type="b2602c69:ProjectViewProjectNode" />
               <item name="swoolec" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wSwoole" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wSwoole" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wSwoole" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wSwoole" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-              <item name="swoolec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Command" type="462c0819:PsiDirectoryNode" />
-              <item name="DefaultCommand" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -159,27 +133,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589365984095</updated>
-      <workItem from="1589365985252" duration="3810000" />
+      <workItem from="1589365985252" duration="4826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3810000" />
+    <option name="totallyTimeSpent" value="4826000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20331696" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20331696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.23689957" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.709607" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -296,7 +269,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../swoolec/swoolec/src/Command/DefaultCommand/Help.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
+        <state relative-caret-position="203">
           <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding>
             <element signature="e#50#87#0#PHP" expanded="true" />
