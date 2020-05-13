@@ -16,22 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../swoolec/swoolec/src/Command/DefaultCommand/Help.php">
+        <entry file="file://$PROJECT_DIR$/../swoolec/readme">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-              <folding>
-                <element signature="e#50#87#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../swoolec/swoolec/src/Common.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -64,11 +52,11 @@
         <option value="$PROJECT_DIR$/../swoolec/swoolec/src/Command/CommandContainer.php" />
         <option value="$PROJECT_DIR$/../swoolec/swoolec/composer.json" />
         <option value="$PROJECT_DIR$/../swoolec/swoolec/tests/Index.php" />
-        <option value="$PROJECT_DIR$/../swoolec/readme" />
         <option value="$PROJECT_DIR$/../swoolec/dumpautoload.sh" />
         <option value="$PROJECT_DIR$/../swoolec/composer.json" />
         <option value="$PROJECT_DIR$/../swoolec/swoolec/src/Common.php" />
         <option value="$PROJECT_DIR$/../swoolec/swoolec/src/Command/DefaultCommand/Help.php" />
+        <option value="$PROJECT_DIR$/../swoolec/readme" />
       </list>
     </option>
   </component>
@@ -133,26 +121,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589365984095</updated>
-      <workItem from="1589365985252" duration="4826000" />
+      <workItem from="1589365985252" duration="7166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4826000" />
+    <option name="totallyTimeSpent" value="7166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20331696" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13267814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.709607" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.12772925" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -199,13 +188,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../swoolec/dumpautoload.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../swoolec/readme">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
@@ -260,6 +242,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../swoolec/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../swoolec/swoolec/src/Common.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -269,11 +254,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../swoolec/swoolec/src/Command/DefaultCommand/Help.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="731">
           <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding>
             <element signature="e#50#87#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swoolec/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
