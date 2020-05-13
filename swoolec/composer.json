@@ -1,0 +1,37 @@
+{
+  "name": "Swoolec/Swoolec",
+  "description": "this is a test frame",
+  "keywords": ["test", "Swoolec"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "coding-lover",
+      "email": "wumingcong2013@163.com"
+    }
+  ],
+  "autoload": {
+      "psr-4": {
+        "Swoolec\\Swoolec\\": "src/"
+      }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Swoolec\\Swoolec\\Test\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=7.3.0",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "psr/log": "^1.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8.35"
+  },
+  "extra":{
+    "branch-alias":{
+      "dev-master":"1.0.x-dev"
+    }
+  }
+}

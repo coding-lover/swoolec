@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Swoolec\\Swoolec\\": "swoolec/src/",
+      "Swoolec\\utility\\": "utility/src/"
+    }
+  },
+  "require": {
+
+  }
+}
